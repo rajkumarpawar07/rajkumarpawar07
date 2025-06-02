@@ -4,13 +4,16 @@
 <p align="center">
   🚀 GCP/DevOps at Accenture | 💡 Flutter & Golang Innovator | ☁️ Cloud DevOps Enthusiast
 </p>
-
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer;Google+Cloud+DevOps+Engineer;Full+Stack+Developer;Flutter+%26+Go+Developer" alt="Typing SVG" />
+</div>
 <p align="center">
   <a href="https://rajkumarpawar07-github-io.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
 
 </p>
+
 
 
 ## 🚀 About Me
